@@ -1,0 +1,6 @@
+node_modules
+dist
+.gitignore
+gulpfile.js
+nodemon.json
+package-lock.json
