@@ -9,7 +9,7 @@
 # Для тестирования
 
 1. В папке Docs файл tz-sibdev.postman_collection.json импортировать в Postman.
-2. В запросе uploadCSV во вкладке Body/form-data и свойстве csv можно выбирать mock-data.csv файлы, лежащие в той же папке, что и файл для Postman   
+2. В запросе uploadCSV во вкладке Body/form-data и свойстве csv можно выбирать mock-data.csv файлы, лежащие в Docs.   
 (если mock-data файл выбран изначально - перевыбрать).
 3. Потыкать uploadCSV / TopFive запросы.  
 (можно попробовать испортить данные uploadCSV запроса, чтобы проверить на ответы с ошибками)
